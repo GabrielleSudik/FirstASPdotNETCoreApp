@@ -1,0 +1,11 @@
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\bin\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.deps.json
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\bin\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.runtimeconfig.json
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\bin\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.runtimeconfig.dev.json
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\bin\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.dll
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\bin\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.pdb
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.csprojResolveAssemblyReference.cache
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.AssemblyInfoInputs.cache
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.AssemblyInfo.cs
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.dll
+C:\Users\Gabrielle\Documents\Visual Studio 2017\Projects\FirstASPdotNETCoreApp\FirstASPdotNETCoreApp\obj\Debug\netcoreapp2.0\FirstASPdotNETCoreApp.pdb

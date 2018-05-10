@@ -1,0 +1,20 @@
+﻿@*you added this first line. it's probably just like when MVC makes it.*@
+@*it's what links this view to the right model.*@
+@model FirstASPdotNETCoreApp.Models.Employee
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index -- the Employee View view.</h2>
+<h4>Hmm. The instructor gave instructions that cannot be followed. Re Bower. How annoying.</h4>
+<p>Bower is not an option in my menus. I get error messages when I try to install it via NuGet.
+    I also get errors trying to install jquery. Le sigh.</p>
+<p>And an ASP.NET Configuration File is also not available in the menus to add.
+    Perhaps it needs those other things added first? :(</p>
+<p>Actually, something called Bower is under Dependencies, but the output window shows errors. :-\</p>
+<p>You DID find something you needed by adding the appsettings file. 
+    It's got the connetion strings, at least.</p>
+<br />
+<h1>Welcome, Employee @Model.EmpName. Your ID number is @Model.Eid.</h1>
+<h3>According to the instructor, I now know everything I need to know about creating web apps!</h3>
